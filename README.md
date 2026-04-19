@@ -9,9 +9,9 @@
 | Dataset ID | `634091` |
 | Location | Iowa City |
 | Category | Restaurants |
-| Full dataset size | 212 records |
-| Free sample size | 21 records (9.91%) |
-| Last export | 2026-04-09T15:46:31.246764+00:00 |
+| Full dataset size | 211 records |
+| Free sample size | 21 records (9.95%) |
+| Last export | 2026-04-16T18:30:30.669550+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-iowa-city-iowa-us-sample-634091/releases/download/sample-latest/beamstation_634091_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample

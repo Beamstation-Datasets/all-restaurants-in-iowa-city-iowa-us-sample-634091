@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Iowa City, Iowa. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Iowa City, Iowa, US",
-  "export_job_id": "421c9284-59a5-4d0f-a767-1159f0822cf6",
+  "export_job_id": "ed35ac18-fe64-4fd6-b383-322e5a0b4632",
   "github_org": "Beamstation-Datasets",
   "id_short": 634091,
   "location_name": "Iowa City",
   "location_type": "city",
   "repo_name": "all-restaurants-in-iowa-city-iowa-us-sample-634091",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/634091/beamstation_634091_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_pct": 9.91,
+  "sample_pct": 9.95,
   "sample_records": 21,
-  "sample_sha256": "5da4d7f2440ac3f5464367c2cdada682d0dff5910d2b7525019d8b3e569b4001",
-  "sample_size_bytes": 90219,
-  "total_records": 212,
-  "updated_at": "2026-04-09T15:46:31.246764+00:00"
+  "sample_sha256": "179d075f7023b6e63615c276ba1d86d0db1a3baacfb7fb6429abd67d9eb43240",
+  "sample_size_bytes": 89114,
+  "total_records": 211,
+  "updated_at": "2026-04-16T18:30:30.669550+00:00"
 }

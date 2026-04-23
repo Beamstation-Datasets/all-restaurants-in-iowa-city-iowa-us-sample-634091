@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ed35ac18-fe64-4fd6-b383-322e5a0b4632",
+  "export_job_id": "b29d173a-54e2-4f12-9f29-97d3a65446f3",
   "id_short": 634091,
-  "published_at": "2026-04-19T19:09:39Z",
+  "published_at": "2026-04-23T19:24:04Z",
   "repo_name": "all-restaurants-in-iowa-city-iowa-us-sample-634091",
   "sample_asset_name": "beamstation_634091_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/634091/beamstation_634091_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "179d075f7023b6e63615c276ba1d86d0db1a3baacfb7fb6429abd67d9eb43240",
-  "sample_size_bytes": 89114,
-  "total_records": 211
+  "sample_records": 2,
+  "sample_sha256": "34f32929bea57ed795c6a8102150bf6294033d588e378d1a29f0ab2a13a80d03",
+  "sample_size_bytes": 21496,
+  "total_records": 26
 }
